@@ -77,3 +77,7 @@ https://raw.githubusercontent.com/hearofnight/HonYou2BeLive/main/newchannels/Ind
 https://raw.githubusercontent.com/hearofnight/HonYou2BeLive/main/newchannels/MediaOne.m3u8
 #EXTINF:-1 ,TheKPop
 https://raw.githubusercontent.com/hearofnight/HonYou2BeLive/main/newchannels/TheKPop.m3u8
+#EXTINF:-1 ,无线新闻1
+https://www.hearofnight.cn/live/tvb_plus.php?id=4&normal=12
+#EXTINF:-1 ,无线财经1
+https://www.hearofnight.cn/live/tvb_plus.php?id=6&normal=12
