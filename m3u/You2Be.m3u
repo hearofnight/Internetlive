@@ -79,6 +79,8 @@ https://raw.githubusercontent.com/hearofnight/HonYou2BeLive/main/newchannels/Med
 https://raw.githubusercontent.com/hearofnight/HonYou2BeLive/main/newchannels/TheKPop.m3u8
 #EXTINF:-1 ,TBS News 日本
 https://raw.githubusercontent.com/hearofnight/HonYou2BeLive/main/newchannels/TBSNews_Japan.m3u8
+#EXTINF:-1 ,CNA 新加坡
+https://raw.githubusercontent.com/hearofnight/HonYou2BeLive/main/newchannels/CNA_Singapore.m3u8
 #EXTINF:-1 ,无线新闻1
 https://www.hearofnight.cn/live/tvb_plus.php?id=4&normal=1
 #EXTINF:-1 ,无线财经1
