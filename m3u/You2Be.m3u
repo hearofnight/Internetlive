@@ -59,6 +59,8 @@ https://raw.githubusercontent.com/hearofnight/HonYou2BeLive/main/newchannels/twn
 https://raw.githubusercontent.com/hearofnight/HonYou2BeLive/main/newchannels/SkyNews.m3u8
 #EXTINF:-1 ,FRANCE 24 English
 https://raw.githubusercontent.com/hearofnight/HonYou2BeLive/main/newchannels/France24En.m3u8
+#EXTINF:-1 ,NBC News
+https://raw.githubusercontent.com/hearofnight/HonYou2BeLive/main/newchannels/NBCNews.m3u8
 #EXTINF:-1 ,CBN News
 https://raw.githubusercontent.com/hearofnight/HonYou2BeLive/main/newchannels/CBNnews.m3u8
 #EXTINF:-1 ,ABC News
