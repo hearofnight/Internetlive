@@ -91,3 +91,7 @@ https://www.989089.xyz/live/tvb_plus.php?id=4&normal=1
 https://www.989089.xyz//live/tvb_plus.php?id=6&normal=1
 #EXTINF:-1 ,台视新闻php
 https://www.989089.xyz/live/yt-dlp.php?url=https://www.youtube.com/@TTV_NEWS/live
+#EXTINF:-1 ,TVBS新闻台php
+https://www.989089.xyz/live/yt.php?url=https://www.youtube.com/watch?v=2mCSYvcfhtc
+#EXTINF:-1 ,TvbsHDphp
+https://www.989089.xyz/live/yt.php?url=https://www.youtube.com/watch?v=YvdcZ_jpLXE
