@@ -85,15 +85,4 @@ https://raw.githubusercontent.com/hearofnight/HonYou2BeLive/main/newchannels/The
 https://raw.githubusercontent.com/hearofnight/HonYou2BeLive/main/newchannels/TBSNews_Japan.m3u8
 #EXTINF:-1 ,CNA 新加坡
 https://raw.githubusercontent.com/hearofnight/HonYou2BeLive/main/newchannels/CNA_Singapore.m3u8
-#EXTINF:-1 ,无线新闻1
-https://www.989089.xyz/live/tvb_plus.php?id=4&normal=1
-#EXTINF:-1 ,无线财经1
-https://www.989089.xyz//live/tvb_plus.php?id=6&normal=1
-#EXTINF:-1 ,台视新闻php
-https://www.989089.xyz/live/yt-dlp.php?url=https://www.youtube.com/@TTV_NEWS/live
-#EXTINF:-1 ,TVBS新闻台php
-https://www.989089.xyz/live/yt-dlp.php?url=https://www.youtube.com/watch?v=2mCSYvcfhtc
-#EXTINF:-1 ,TvbsHDphp
-https://www.989089.xyz/live/yt-dlp.php?url=https://www.youtube.com/watch?v=YvdcZ_jpLXE
-#EXTINF:-1 ,无线新闻官方1
-https://www.989089.xyz/live/tvb_newt.php?id=2
+
