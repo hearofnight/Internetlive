@@ -85,3 +85,9 @@ https://raw.githubusercontent.com/hearofnight/HonYou2BeLive/main/newchannels/The
 https://raw.githubusercontent.com/hearofnight/HonYou2BeLive/main/newchannels/TBSNews_Japan.m3u8
 #EXTINF:-1 ,CNA 新加坡
 https://raw.githubusercontent.com/hearofnight/HonYou2BeLive/main/newchannels/CNA_Singapore.m3u8
+#EXTINF:-1 ,HOY76台
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#EXTINF:-1 ,HOY77台
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1 ,HOY78台
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
